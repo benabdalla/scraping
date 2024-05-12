@@ -1,0 +1,120 @@
+Active (0/1),Name *,Parent category,URL Simplifier,Root category (0/1)
+1,Ordinateurs portables,INFORMATIQUE,es,0
+1,Ordinateur de bureau,INFORMATIQUE,au,0
+1,Tablettes Tactiles,INFORMATIQUE,es,0
+1,Serveurs,INFORMATIQUE,rs,0
+1,Stockage,INFORMATIQUE,ge,0
+1,Périphériques & Accessoires,INFORMATIQUE,es,0
+1,Sacs Scolaires & Trousses,INFORMATIQUE,es,0
+1,Composants Informatique,INFORMATIQUE,ue,0
+1,Gaming PC Pc Portable GamerOrdinateur Gamer,GAMING,er,0
+1,Périphériques et Accessoires Gamers,GAMING,rs,0
+1,Console de Jeux,GAMING,ux,0
+1,Composant Pc Gamer,GAMING,er,0
+1,Accessoires de Jeux,GAMING,ux,0
+1,Smartphone & Mobile,TELEPHONIE & MONTRE CONNECTÉE,le,0
+1,Smartwatch,TELEPHONIE & MONTRE CONNECTÉE,ch,0
+1,Accessoires Téléphonie Casque Écouteur,TELEPHONIE & MONTRE CONNECTÉE,ur,0
+1,Téléphone Fixe,TELEPHONIE & MONTRE CONNECTÉE,xe,0
+1,Lunette Connectée,TELEPHONIE & MONTRE CONNECTÉE,ée,0
+1,Gros Electroménager,ÉLECTROMENAGER,er,0
+1,Préparation culinaire,ÉLECTROMENAGER,re,0
+1,Café et Petit déjeuner,ÉLECTROMENAGER,er,0
+1,Rangement & Conservation,ÉLECTROMENAGER,on,0
+1,Appareil de cuisson,ÉLECTROMENAGER,on,0
+1,Cuisine,ÉLECTROMENAGER,ne,0
+1,Hygiene et soin maison,ÉLECTROMENAGER,on,0
+1,Entretien du linge,ÉLECTROMENAGER,ge,0
+1,Fontaine,ÉLECTROMENAGER,ne,0
+1,Réfrigérateur Professionnel,ÉLECTROMENAGER,el,0
+1,Glacière,ÉLECTROMENAGER,re,0
+1,Pack Électroménager,ÉLECTROMENAGER,er,0
+1,Téléviseurs,TV | PHOTO & SON,rs,0
+1,Récepteurs Numériques & Abonnement,TV | PHOTO & SON,nt,0
+1,Son Numérique,TV | PHOTO & SON,ue,0
+1,Home Cinéma,TV | PHOTO & SON,ma,0
+1,Accessoires Téléviseurs,TV | PHOTO & SON,rs,0
+1,Photos & Caméscopes,TV | PHOTO & SON,es,0
+1,Projection,TV | PHOTO & SON,on,0
+1,Accessoires Appareil Photo,TV | PHOTO & SON,to,0
+1,Lecteur enregistreur,TV | PHOTO & SON,ur,0
+1,Accessoires projection,TV | PHOTO & SON,on,0
+1,Piles et Chargeurs,TV | PHOTO & SON,rs,0
+1,Affichage et Contrôle,TV | PHOTO & SON,le,0
+1,Instruments de musique,TV | PHOTO & SON,ue,0
+1,Bricolage & jardin,MAISON | BRICO & ANIMALERIE,in,0
+1,Quincaillerie,MAISON | BRICO & ANIMALERIE,ie,0
+1,Décoration,MAISON | BRICO & ANIMALERIE,on,0
+1,Luminaire & Eclairage,MAISON | BRICO & ANIMALERIE,ge,0
+1,Linge de Maison,MAISON | BRICO & ANIMALERIE,on,0
+1,Mobilier de jardin,MAISON | BRICO & ANIMALERIE,in,0
+1,Filtration de l'eau,MAISON | BRICO & ANIMALERIE,au,0
+1,Plomberie et Sanitaire,MAISON | BRICO & ANIMALERIE,re,0
+1,Rangement et Organisation,MAISON | BRICO & ANIMALERIE,on,0
+1,Maison,MAISON | BRICO & ANIMALERIE,on,0
+1,Nettoyant et Hygiène Maison,MAISON | BRICO & ANIMALERIE,on,0
+1,ANIMALERIE,MAISON | BRICO & ANIMALERIE,IE,0
+1,Imprimantes,IMPRESSION,es,0
+1,Photocopieurs,IMPRESSION,rs,0
+1,Scanners,IMPRESSION,rs,0
+1,Appareil Fax,IMPRESSION,ax,0
+1,Consommables Imprimante,IMPRESSION,te,0
+1,Accessoires Imprimantes,IMPRESSION,es,0
+1,Consommables Photocopieur,IMPRESSION,ur,0
+1,VidéoSurveillance,RESEAUX & SECURITE,ce,0
+1,Matériel de Sécurité & Biométrie,RESEAUX & SECURITE,ie,0
+1,Onduleurs & Protection Électrique,RESEAUX & SECURITE,ue,0
+1,Reseaux,RESEAUX & SECURITE,ux,0
+1,Logiciels,RESEAUX & SECURITE,ls,0
+1,Cables & Adaptateurs,RESEAUX & SECURITE,rs,0
+1,Equipement Electricité,RESEAUX & SECURITE,té,0
+1,PAPIER,BUREAUTIQUE,ER,0
+1,FOURNITURE DE BUREAU,BUREAUTIQUE,AU,0
+1,CLASSEMENTS & ARCHIVAGES,BUREAUTIQUE,ES,0
+1,TABLEAUX,BUREAUTIQUE,UX,0
+1,Ecriture & Correction,BUREAUTIQUE,on,0
+1,MATERIEL POINT DE VENTE,BUREAUTIQUE,TE,0
+1,SCOLAIRE,BUREAUTIQUE,RE,0
+1,ACCESSOIRES DE BUREAU,BUREAUTIQUE,AU,0
+1,MOBILIER DE BUREAU,BUREAUTIQUE,AU,0
+1,LIVRES,BUREAUTIQUE,ES,0
+1,ABONNEMENT ÉDUCATIF,BUREAUTIQUE,IF,0
+1,Bijouterie,MODE BEAUTÉ & SANTÉ,ie,0
+1,Parfums,MODE BEAUTÉ & SANTÉ,ms,0
+1,Sacs & Bagages,MODE BEAUTÉ & SANTÉ,es,0
+1,Soins Homme,MODE BEAUTÉ & SANTÉ,me,0
+1,Soins Femme,MODE BEAUTÉ & SANTÉ,me,0
+1,Epilation,MODE BEAUTÉ & SANTÉ,on,0
+1,Hygiène - Soin - Beauté,MODE BEAUTÉ & SANTÉ,té,0
+1,Massage & Bien-être,MODE BEAUTÉ & SANTÉ,re,0
+1,Santé,MODE BEAUTÉ & SANTÉ,té,0
+1,Orthopédie,MODE BEAUTÉ & SANTÉ,ie,0
+1,Bicyclettes,MOTO | SPORTS & LOISIRS,es,0
+1,Auto & Moto,MOTO | SPORTS & LOISIRS,to,0
+1,Glisse Urbaine,MOTO | SPORTS & LOISIRS,ne,0
+1,Sports,MOTO | SPORTS & LOISIRS,ts,0
+1,Nutrition Sportive,MOTO | SPORTS & LOISIRS,ve,0
+1,Randonnée et Camping,MOTO | SPORTS & LOISIRS,ng,0
+1,Accessoires Voiture,MOTO | SPORTS & LOISIRS,re,0
+1,Entretien Et Nettoyant Auto,MOTO | SPORTS & LOISIRS,to,0
+1,Maillots de sport,MOTO | SPORTS & LOISIRS,rt,0
+1,Jeux de Construction,JEUX & JOUETS,on,0
+1,Véhicules et Voitures,JEUX & JOUETS,es,0
+1,Jeux de Table,JEUX & JOUETS,le,0
+1,jouets d'imitation,JEUX & JOUETS,on,0
+1,Jeux de Plein Air,JEUX & JOUETS,ir,0
+1,Jeux Éducatifs et de société,JEUX & JOUETS,té,0
+1,Poupées & Poupons,JEUX & JOUETS,ns,0
+1,Loisirs Créatifs,JEUX & JOUETS,fs,0
+1,Déguisements et articles de fête,JEUX & JOUETS,te,0
+1,Bébé se promène,BÉBÉ,ne,0
+1,Bébé s’éveille,BÉBÉ,le,0
+1,Bébé mange,BÉBÉ,ge,0
+1,Bébé dort,BÉBÉ,rt,0
+1,Toilette, Soin de bébé,BÉBÉ,bé,0
+1,Bébé en Sécurité,BÉBÉ,té,0
+1,Coffrets nouveau-né,BÉBÉ,né,0
+1,Grossesse et Allaitement,BÉBÉ,nt,0
+1,Jeunesse,MAGAZINE,se,0
+1,Loisirs,MAGAZINE,rs,0
+1,Art de Vivre,MAGAZINE,re,0
